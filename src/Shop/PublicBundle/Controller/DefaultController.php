@@ -9,7 +9,7 @@ class DefaultController extends Controller{
     
     public function indexAction()
     {
-        return new Response('hello world2d', '200');
+        return new Response('hello world2d -carrloss', '200');
     }
     
 }
